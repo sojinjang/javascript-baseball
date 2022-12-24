@@ -1,5 +1,5 @@
 const getComputerRandNum = require("./getComputerRandNum.js");
-const Validator = require("./validator.js");
+const Validator = require("./Validator.js");
 const MissionUtils = require("@woowacourse/mission-utils");
 const { getSumOfBallAndStrike, getStrikeCnt } = require("./getCntOfBallOrStrike.js");
 
